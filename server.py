@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 NECROMANCER PROJECT
-AUTHOR : 0xTOM7
-GITHUB : tom7voldemort
+AUTHOR : 0xTM7
+GITHUB : 0xTM7
 VERSION : 1.0.0
 """
 
