@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 NECROMANCER PROJECT
-AUTHOR : 0xTM7
-GITHUB : 0xTM7
+AUTHOR : XTM26
+GITHUB : XTM26
 VERSION : 1.0.0
 """
 

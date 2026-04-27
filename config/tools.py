@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# Author: 0xTM7
-# Github: 0xTM7
+# Author: XTM26
+# Github: XTM26
 
 from time import sleep
 from sys import stdout
@@ -85,8 +85,8 @@ xbanner = f"""
 
                                            {bold}{italic}{orange}- NECROM4NCER -{reset}
 
-{bold}{blue}[+]{white} Author: 0xTM7
-{bold}{blue}[+]{white} Github: 0xTM7
+{bold}{blue}[+]{white} Author: XTM26
+{bold}{blue}[+]{white} Github: XTM26
 {bold}{blue}[+]{white} Version: 1.0
 {reset}
 """
